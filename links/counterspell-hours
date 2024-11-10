@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  // <meta http-equiv="refresh" content="0; url=https://docs.google.com/">
+  </head>
+
+  <body>
+    <a id="link" target="_parent" href="https://docs.google.com/spreadsheets/d/1bM02N8s3AJ8ceCnYs77wh9NwcMCCkpxNdYMA7f-o4BA/"></a>
+    <script type="text/javascript">
+      document.getElementById('link').click();
+    </script>
+  </body>
+</html>
